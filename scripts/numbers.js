@@ -15,3 +15,11 @@ console.log(numAvg);
 
 let theNumber = 14;
 console.log(++theNumber)
+
+value="abc"
+typeof(value)
+console.log(typeof(value))
+
+value="6"
+typeof(value)
+console.log(typeof(value))
