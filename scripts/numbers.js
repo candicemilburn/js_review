@@ -7,10 +7,10 @@ num = num+15
 
 console.log(num);
 
-num = num-8
+num -= 8;
 console.log(num);
 
-numAvg = 340/5
+numAvg = (26+44+72+86+112)/5;
 console.log(numAvg);
 
 let theNumber = 14;
